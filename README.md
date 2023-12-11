@@ -32,7 +32,7 @@ float reLU_Function(float y){
 ---
 
 ## Genetic Algorithm:
-
+- Genetic Algorithm Metrics: The tool displays relevant metrics related to the genetic algorithm, such as the current generation, best fitness value, average fitness value, and other statistics to track the progress of the optimization process.
 ![Purple Colorful Organic Mind Map Brainstorm](https://github.com/Esmail-ibraheem/Brain-Simulator/assets/113830751/3635a868-8842-495d-b689-5f133def7e8e)
 Brain incorporates a genetic algorithm to optimize the neural network's performance. The genetic algorithm involves the following steps:
 1. Initialization: A population of neural networks is randomly generated, each with its own set of weights.
@@ -62,8 +62,3 @@ Brain offers the following visualization features:
 
 ### For more, check my article in Medium: 
 https://medium.com/@Esmail_A.Gumaan/brain-simulator-355dd3767e00
-
-- Genetic Algorithm Metrics: The tool displays relevant metrics related to the genetic algorithm, such as the current generation, best fitness value, average fitness value, and other statistics to track the progress of the optimization process.
-
-
-
