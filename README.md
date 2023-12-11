@@ -19,6 +19,9 @@ The neural network architecture for Brain is as follows:
 - Hidden Layers: Brain includes two hidden layers, with each layer comprising 18 nodes. The Rectified Linear Unit (ReLU) activation function is used for the hidden layers
 
 - Output Layer: The output layer consists of four nodes representing the possible directions that the snake can move: up, down, left, and right. Each output node produces a value between 0 and 1, indicating the probability of selecting the corresponding direction.
+
+  ![Brain_Simulator-2023-12-11-13-52-00](https://github.com/Esmail-ibraheem/Brain-Simulator/assets/113830751/953c25a0-3751-4719-a96a-7741d7e2d603)
+
   
 ---
 
