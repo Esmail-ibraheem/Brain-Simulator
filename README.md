@@ -10,6 +10,12 @@ Brain is a neural network simulator tool implemented in Java using the Processin
 
 The objective of Brain is to develop a snake brain simulation tool that showcases the decision-making process of a neural network (how the brain of the snake work) controlling the snake's movements. The neural network is optimized using a genetic algorithm, in addition to being designed from scratch and implemented in Java using the Processing environment. The tool provides a real-time or iterative visualization of the network's decision-making during brain activity.
 
+
+
+https://github.com/Esmail-ibraheem/Brain-Simulator/assets/113830751/abc06b56-0780-4eb7-a221-5493b05e9690
+
+
+
 ---
 
 ## Neural Network Architecture:
