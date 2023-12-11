@@ -60,6 +60,9 @@ Brain offers the following visualization features:
 
 - Real-time or Iterative Visualization: The visualization updates in real-time or at regular intervals to depict the decision-making process of the neural network as the snake moves and interacts with its environment.
 
+### For more, check my article in Medium: 
+https://medium.com/@Esmail_A.Gumaan/brain-simulator-355dd3767e00
+
 - Genetic Algorithm Metrics: The tool displays relevant metrics related to the genetic algorithm, such as the current generation, best fitness value, average fitness value, and other statistics to track the progress of the optimization process.
 
 
