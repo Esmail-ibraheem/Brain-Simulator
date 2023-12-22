@@ -33,7 +33,7 @@ The neural network architecture for Brain is as follows:
 
 ## Activation Function used: 
 ReLU function:
-```java
+```processing
 float reLU_Function(float y){
         return max(0,y) ;
 }
